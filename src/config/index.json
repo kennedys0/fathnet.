@@ -1,0 +1,126 @@
+{
+  "company": {
+    "name": "Fath Net",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+
+  "mainHero": {
+    "title": "Fath Net.",
+    "description": "Fath Net adalah sebuah perusahaan penyedia jasa internet yang telah dikenal sebagai pionir dalam menyediakan koneksi internet berkualitas tinggi dengan harga yang sangat terjangkau. Dengan fokus utama pada kepuasan pelanggan, Fath Net berkomitmen untuk memberikan layanan internet yang stabil, cepat, dan handal guna memenuhi kebutuhan konektivitas modern.",
+    "img": "/assets/images/HeroImage.png",
+    "primaryAction": {
+      "text": "Pasang Sekarang",
+      "href": "https://wa.me/62895700816114/"
+    },
+    "secondaryAction": {
+      "text": "Email kami",
+      "href": "mailto:fathnet@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Lebih Cepat, Lebih Hemat",
+    "items": [
+      {
+        "title": "Lebih Cepat!",
+        "description": "Dengan bangga menyajikan internet yang lebih cepat, kami memastikan bahwa pelanggan kami dapat menikmati koneksi yang stabil dan responsif setiap saat. Dengan infrastruktur teknologi terkini, kami berkomitmen untuk memberikan layanan internet yang tidak hanya lebih cepat tetapi juga handal. Pilih Fath Net untuk pengalaman berselancar yang lancar dan efisien, karena bagi kami, kecepatan bukanlah opsi, melainkan suatu keharusan.",
+        "img": "/assets/images/1.png"
+      },
+      {
+        "title": "Lebih Hemat!",
+        "description": "Dengan komitmen untuk menyediakan harga yang hemat terjangkau, kami memahami bahwa konektivitas berkualitas tidak harus mahal. Fath Net hadir untuk memberikan akses internet yang handal dan responsif tanpa memberatkan budget Anda. Bergabunglah dengan kami dan nikmati kebebasan konektivitas tanpa perlu khawatir tentang biaya yang tidak terjangkau. Karena di Fath Net, kami memahami bahwa koneksi yang terjangkau adalah hak setiap orang.",
+        "img": "/assets/images/2.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "",
+    "subtitle": "Keunggulan kami",
+    "description": "Sebagai perusahaan yang terus berkembang, Fath Net terus berinovasi untuk memenuhi tuntutan pasar yang terus berubah. Dengan tekad untuk tetap menjadi pemimpin industri, Fath Net terus meningkatkan layanannya, memperluas jangkauan geografis, dan menghadirkan teknologi terkini ke setiap pelanggan. Dengan demikian, Fath Net tidak hanya menjadi penyedia jasa internet, tetapi juga mitra yang dapat diandalkan untuk mendukung konektivitas digital yang efisien dan terjangkau bagi masyarakat.",
+    "items": [
+      {
+        "name": "Fiber Optic",
+        "description": "Fath Net mengutamakan kualitas koneksi dengan mengadopsi teknologi Fiber Optic. Ini bukan hanya tentang kecepatan, tetapi juga kestabilan sinyal yang lebih baik. Penggunaan serat optik memungkinkan transmisi data dengan kecepatan tinggi, menghasilkan pengalaman internet yang lebih cepat dan lebih responsif.",
+        "icon": "/assets/images/3.png"
+      },
+      {
+        "name": "Unlimited Bandwith",
+        "description": "Dengan Fath Net, Anda tidak perlu khawatir tentang batasan penggunaan data. Kami menyediakan paket dengan bandwidth tanpa batas, memberikan kebebasan kepada pelanggan untuk menjelajahi internet, streaming, atau bekerja tanpa takut terhadap pembatasan kuota.",
+        "icon": "/assets/images/4.png"
+      },
+      {
+        "name": "Non-Deposit",
+        "description": "Kami memahami bahwa kebijakan pembayaran dapat menjadi faktor penting bagi pelanggan. Oleh karena itu, Fath Net menawarkan layanan tanpa deposit, menjadikan pengalaman berlangganan internet lebih mudah dan ramah pengguna. Kami percaya bahwa akses internet berkualitas tinggi haruslah mudah dijangkau tanpa persyaratan deposit yang membebani.",
+        "icon": "/assets/images/5.png"
+      },
+      {
+        "name": "Personal Monitoring",
+        "description": "Fath Net mengambil langkah ekstra dengan menyediakan layanan personal monitoring. Ini berarti bahwa pelanggan kami mendapatkan tingkat layanan yang lebih tinggi dan lebih personal. Tim kami siap untuk memantau koneksi Anda, memberikan bantuan, dan menanggapi setiap kebutuhan dengan cepat. Dengan personal monitoring, kami memberikan tingkat kepedulian yang tinggi terhadap pengalaman internet Anda.",
+        "icon": "/assets/images/6.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "F-Basic",
+        "price": "Rp150.000",
+        "priceDetails": "/Bulan",
+        "features": [
+          "10 Mbps",
+          "24/7 Support",
+          "Unlimited Bandwith"
+        ]
+      },
+      {
+        "name": "F-Platinum",
+        "price": "Rp480.000",
+        "priceDetails": "/Bulan",
+
+        "features": [
+          "50 Mbps",
+          "Priority Support",
+          "24/7 Support",
+          "Unlimited Bandwith"
+        ]
+      },
+      {
+        "name": "F-Premium",
+        "price": "Rp300.000",
+        "priceDetails": "/Bulan",
+        "features": [
+          "30 Mbps",
+          "24/7 Support",
+          "Unlimited Bandwith"
+        ]
+      }
+    ]
+  },
+  "about": {
+
+    "socialMedia": {
+      "instagram": "https://instagram.com/FATHNET",
+      "twitter": "https://x.com/FATHNET",
+      "WhatsApp": "https://wa.me/62895700816114/"
+    }
+  }
+}
